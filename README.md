@@ -1,1 +1,1 @@
-# weatherapp
+# React PWA Weather App
